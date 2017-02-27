@@ -1,8 +1,6 @@
 # webtek-innlevering3
-this is gon b gud
+Tema: Premier League
 
-git gud, nuubs
-
-Fan du vil a?
-
-Stupe læll!
+Gruppeleder/Nettverksadmin: Patrick Charles Mikael Thor
+Grafisk Designer:
+Innhaldsansvarlig/"Fotograf":
