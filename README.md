@@ -5,4 +5,4 @@ Gruppeleder/Nettverksadmin: Patrick Charles Mikael Thor med hammern
 
 Grafisk Designer:  Anders Smørdal
 
-Innhaldsansvarlig/"Fotograf":
+Innhaldsansvarlig: Thomas Drønnesund
