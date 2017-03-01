@@ -7,4 +7,4 @@ Grafisk Designer:  Anders Smørdal
 
 Innhaldsansvarlig: Thomas Drønnesund
 
-Benksliter: Erik2 
+Benksliter: Erik bjerkelund stette
