@@ -7,7 +7,9 @@ Grafisk Designer:  Anders Smørdal
 
 Innhaldsansvarlig: Thomas Drønnesund
 
-Benksliter: Erik bjerkelund stette
+Benksliter: Erik Fossum
+
+Boss: Erik Stette
 
 Tabell:
 <iframe src="http://www.btfstats.com/widgets/leagues-table.php?name=England%3APremier+League&type=0" 
