@@ -9,7 +9,9 @@
 li {
     display: inline-block;
 }
-
+nav{
+  text-align: center;
+}
 
 li a, .dropbtn {
     display: inline-block;
