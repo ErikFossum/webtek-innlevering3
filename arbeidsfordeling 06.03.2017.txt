@@ -14,7 +14,7 @@ Sjå på wiremap på github for oppsett på nettsida.
 Erik Slette: Liverpool
 Erik Fossum: Arsenal
 Thomas Drønnesund: Totenham
-Simen Grøvdal: Manchester United
-Jørgen Wærås: Manchester City
+Simen Grøvdal: Manchester United ✔
+Jørgen Wærås: Manchester City ✔
 Anders Smørdal: Historie om Premier League
-Patrick Thor: Chelsea
+Patrick Thor: Chelsea ✔
