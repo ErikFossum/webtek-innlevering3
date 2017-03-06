@@ -74,8 +74,6 @@ footer{
 header {
   border: solid 1px rgb(0, 0, 0);
   background-color: rgb(77, 0, 77);
-  font: bold 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-align: center;
   background: linear-gradient(#4d004d, #293f50);
   height: 50px;
 }
