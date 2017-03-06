@@ -139,6 +139,10 @@ nav a {
 }
 
 .chelseabackground{
-  background: url(spursstadium.png) no-repeat center center fixed;
+  background: url(chelseastadium.png) no-repeat center center fixed;
+  background-size: cover;
+}
+.etihad-background{
+  background: url(etihad.jpg) no-repeat center center fixed;
   background-size: cover;
 }
