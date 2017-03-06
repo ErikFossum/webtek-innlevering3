@@ -120,3 +120,6 @@ nav a {
   display: inline-block;
   float: right;
 }
+.banner{
+  width: 100%;
+}
