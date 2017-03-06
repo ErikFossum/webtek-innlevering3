@@ -121,3 +121,15 @@ nav a {
 .banner{
   width: 100%;
 }
+
+.spursbackground{
+  background: url(spursstadium.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.SpursPerformance
+{
+  float: right;
+  width: 100%;
+  margin: 5%;
+}
