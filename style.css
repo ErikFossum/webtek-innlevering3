@@ -137,3 +137,8 @@ nav a {
   background: url(emirates.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+
+.chelseabackground{
+  background: url(spursstadium.png) no-repeat center center fixed;
+  background-size: cover;
+}
