@@ -101,3 +101,18 @@ nav a {
 .transfer-shortcut a{
   text-decoration: none;
 }
+
+.tableleft
+{
+  width: 20%;
+  border: 0;
+  display: inline-block;
+}
+
+.tableright
+{
+  width: 20%;
+  border: 0;
+  display: inline-block;
+  float: right;
+}
