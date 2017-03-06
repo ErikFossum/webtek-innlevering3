@@ -6,6 +6,10 @@
   background: linear-gradient(#4d004d, #293f50);
 }
 
+body{
+  font-family: 'Eczar', serif;
+}
+
 nav li {
   display: inline-block;
 }
