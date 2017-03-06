@@ -1,0 +1,20 @@
+Arbeidsfordeling 06.03.2017
+
+Underoverskrifte på lagsidene:
+
+	-Litt generelt (treng ikkje underoverskrift)
+	-Historie (Bruk h2 taggen)
+	-Stadium (Bruk h2 taggen)
+	(I denne rekkefølga)
+
+Husk logobanner. Er berre å stjele en frå wikipedia. :P   
+
+Sjå på wiremap på github for oppsett på nettsida.
+
+Erik Slette: Liverpool
+Erik Fossum: Arsenal
+Thomas Drønnesund: Totenham
+Simen Grøvdal: Manchester United
+Jørgen Wærås: Manchester City
+Anders Smørdal: Historie om Premier League
+Patrick Thor: Chelsea
