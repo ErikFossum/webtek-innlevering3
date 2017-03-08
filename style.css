@@ -161,6 +161,13 @@ nav a {
   background: url(football-history.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+.indexbackground{
+  background: url(premier_league.gif) no-repeat center center fixed;
+  background-size: cover;
+}
 .history{
 padding-top: 4px; 
+}
+.index{
+padding-top: 4px;
 }
