@@ -157,6 +157,10 @@ nav a {
   background: url(anfield.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+.historybackground{
+  background: url(football-history.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
 .history{
 padding-top: 4px; 
 }
