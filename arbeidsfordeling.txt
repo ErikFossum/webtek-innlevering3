@@ -11,7 +11,7 @@ Husk logobanner.
 
 Sjå på wiremap på github for oppsett på nettsida.
 
-Erik Slette: Liverpool
+Erik Slette: Liverpool ✔
 Erik Fossum: Arsenal ✔
 Thomas Drønnesund: Totenham ✔
 Simen Grøvdal: Manchester United ✔
