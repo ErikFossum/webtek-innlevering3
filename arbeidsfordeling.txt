@@ -11,7 +11,7 @@ Husk logobanner.
 
 Sjå på wiremap på github for oppsett på nettsida.
 
-Erik Slette: Liverpool ✔
+Erik Slette: Liverpool
 Erik Fossum: Arsenal ✔
 Thomas Drønnesund: Totenham ✔
 Simen Grøvdal: Manchester United ✔
@@ -36,7 +36,7 @@ Toppscorerar, hattricks, tabell over ken so he vunne ligaen dei siste åra.
 
 Husk å bruke HTML dokumenta som ligg på GitHub.
 
-Erik Slette: Hjelpe til med Home(index) og Stats sidene
+Erik Slette: Lage ferdi Liverpool sida, Hjelpe til med Home(index) og Stats sidene
 Erik Fossum: Bakgrunnsbilde på resten av sidene / div css
 Thomas Drønnesund: Lagliste på alle sidene
 Simen Grøvdal: Home(index)
