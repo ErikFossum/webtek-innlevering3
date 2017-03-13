@@ -169,6 +169,10 @@ nav a {
   background: url(stats-wallpaper.jpeg) no-repeat center center fixed;
   background-size: cover;
 }
+.tablebackground{
+  background: url(table_background.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
 .history{
 padding-top: 4px; 
 }
