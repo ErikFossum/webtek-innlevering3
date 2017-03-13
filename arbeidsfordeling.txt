@@ -37,9 +37,23 @@ Toppscorerar, hattricks, tabell over ken so he vunne ligaen dei siste åra.
 Husk å bruke HTML dokumenta som ligg på GitHub.
 
 Erik Slette: Lage ferdi Liverpool sida, Hjelpe til med Home(index) og Stats sidene ✔
-Erik Fossum: Bakgrunnsbilde på resten av sidene / div css 
-Thomas Drønnesund: Lagliste på alle sidene
+Erik Fossum: Bakgrunnsbilde på resten av sidene / div css ✔
+Thomas Drønnesund: Lagliste på alle sidene ✔
 Simen Grøvdal: Home(index) ✔
 Jørgen Wærås: Stats ✔
 Anders Smørdal: Historie om Premier League ✔
 Patrick Thor: Standarisering av banner / starte me avsluttande framføring/rapport ✔
+
+
+
+-------  Arbeidsfordeling 08.03.2017  -------
+
+Arbeid som gjenstår: Finpuss på sider, Finpuss på CSS, validering av HTML/CSS, Rapport.
+
+Erik Slette: Valdiering av HTML
+Erik Fossum: Finpuss på CSS / Validering av CSS
+Thomas Drønnesund: Finpuss på sider
+Simen Grøvdal: Validering av HTML
+Jørgen Wærås : Validering av HTML
+Anders Smørdal: Finpuss på sider
+Patrick Thor: Fullføre avsluttande framføring/rapport
