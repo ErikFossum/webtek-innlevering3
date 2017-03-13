@@ -165,24 +165,28 @@ nav a {
   background: url(premier_league.gif) no-repeat center center fixed;
   background-size: cover;
 }
+.statsbackground{
+  background: url(stats-wallpaper.jpeg) no-repeat center center fixed;
+  background-size: cover;
+}
 .history{
 padding-top: 4px; 
 }
 .index{
 padding-top: 4px;
 }
-
+.stats{
+  padding-top: 4px;
+}
 .stats-content{
   padding: 5px;
   text-align: center;
 }
-
 .stats-tables{
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10%;
 }
-
 .stats-headers{
   text-align: center;
 }
