@@ -96,24 +96,25 @@ nav a:hover
 nav a {
   color:rgb(255, 255, 255);
 }
-.transfer-shortcut{
-  
+.transfer-shortcut{ 
   float: left;
   position: fixed;
   border: outset;
   border-color: grey;
   padding: 1px;
   background-color: rgba(223, 223, 223, 0.5);
-  overflow: scroll;
+  overflow: auto;
   height: 40%;
-
-
+  width: 15%;
 }
 .transfer-shortcut ul{
   list-style-type: none;
 }
 .transfer-shortcut a{
   text-decoration: none;
+}
+aside h4{
+  padding-left: 10px;
 }
 
 .tableleft
