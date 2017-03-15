@@ -50,10 +50,26 @@ Patrick Thor: Standarisering av banner / starte me avsluttande framføring/rappo
 
 Arbeid som gjenstår: Finpuss på sider, Finpuss på CSS, validering av HTML/CSS, Rapport.
 
-Erik Slette: Valdiering av HTML
-Erik Fossum: Finpuss på CSS / Validering av CSS
-Thomas Drønnesund: Finpuss på sider
-Simen Grøvdal: Validering av HTML
-Jørgen Wærås : Validering av HTML
-Anders Smørdal: Finpuss på sider
-Patrick Thor: Fullføre avsluttande framføring/rapport
+Erik Slette: Valdiering av HTML ✔
+Erik Fossum: Finpuss på CSS / Validering av CSS ✔
+Thomas Drønnesund: Finpuss på sider ✔
+Simen Grøvdal: Validering av HTML ✔
+Jørgen Wærås : Validering av HTML ✔
+Anders Smørdal: Finpuss på sider ✔
+Patrick Thor: Fullføre avsluttande framføring/rapport ✔
+
+
+
+-------  Arbeidsfordeling 08.03.2017  -------
+
+Arbeid som gjenstår: HTML validering. Siste sjekk på sider. Opplasting på server.
+
+Anders Smørdal: History validering
+Erik Fossum: Arsenal/CSS validering
+Thomas Drønnesund: Transfers validering/Index validering/Tottenham validering
+Patrick Thor: Chelsea validering/siste finpuss før opplasting/opplasting/rapport
+Jørgen Værvås: Manchester City validering
+Erik Slette: Liverpool validering
+Simen Grøvdal: Manchester United validering
+
+Går heilt fint om der e småfeil som ligg igjen so dokke ikkje fe vekk.
