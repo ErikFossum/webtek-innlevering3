@@ -130,6 +130,15 @@ aside h4{
   display: inline-block;
   float: right;
 }
+
+.tableleft tr th {
+  background-color:#AAD0FF;
+}
+
+.tableright tr th{
+  background-color:#AAD0FF;
+}
+
 .banner{
   width: 100%;
 }
