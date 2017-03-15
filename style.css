@@ -91,7 +91,6 @@ article{
 nav a:hover
 {
   background: #4d004d;
-  box-shadow:rgba(0, 0, 0, .3);
 }
 nav a {
   color:rgb(255, 255, 255);
