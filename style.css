@@ -136,6 +136,9 @@ aside h4{
 .tableright tr th{
   background-color:#AAD0FF;
 }
+.stats-tables tr th{
+  background-color:#AAD0FF;
+}
 
 .banner{
   width: 100%;
