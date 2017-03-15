@@ -118,14 +118,12 @@ aside h4{
 
 .tableleft
 {
-  width: 20%;
   border: 0;
   display: inline-block;
 }
 
 .tableright
 {
-  width: 40%;
   border: 0;
   display: inline-block;
   float: right;
